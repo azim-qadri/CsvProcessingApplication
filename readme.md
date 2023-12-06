@@ -4,9 +4,9 @@
 Reads csv files, combines them and persists to h2 database
 
 ## Developer(s) Information
-- **Name:** [Syed Mohammad Azim]
-- **Email:** [syed.azim.q@gmail.com]
-- **Organization:** [State Street]
+- **Name:** Syed Mohammad Azim
+- **Email:** syed.azim.q@gmail.com
+- **Organization:** State Street
 - **Role:** Pre intern
 
 
