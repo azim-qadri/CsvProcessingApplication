@@ -1,0 +1,34 @@
+ID,Name,Age,City,State Name,Two Wheeler,Three Wheeler,Four Wheeler,Goods Vehicles,Public Service Vehicle,Special Category Vehicles,Ambulance/Hearses,Construction Equipment Vehicle,Other,Grand Total,Cluster,Car_name,Car_price,Batter_cap,Drive_range,Power,Charge_time,transmission,Boot_space,Top_speed
+4,David,25,New York,Andaman and Nicobar Island,1,30.0,81,0.0,40.0,0.0,0.0,0.0,7.0,159,0,MG Comet EV,7.98  lakh,17.3 kWh,230  km/full charge,41.42 Bhp,7 Hours,Automatic,,
+5,Eva,30,Los Angeles,Arunachal Pradesh,14,0.0,5,0.0,0.0,0.0,0.0,0.0,1.0,20,0,Tata Tiago EV,8.69 - 11.99  lakh,19.2 KWh,250 km/full charge,60.34 - 73.75 Bhp,58 Min(10-80%),240 L (Liters),Automatic,
+6,Frank,35,Chicago,Assam,721,47041.0,161,7.0,15.0,0.0,0.0,0.0,2.0,47947,0,Tata Tigor EV,12.49 - 13.75  lakh,26 kWh,315 km/full charge,73.75 Bhp,7.5h,316 L (Liters),Automatic,
+7,Grace,40,Houston,Bihar,5003,59079.0,114,11.0,26.0,0.0,0.0,0.0,8.0,64241,0,MG ZS EV,23.38 - 27.40  lakh,50.3 kWh,461 km/full charge,174.33 Bhp,8.5 to 9 Hours,Automatic,,
+8,Hannah,45,Phoenix,Chandigarh,298,1410.0,182,0.0,40.0,0.0,0.0,0.0,1.0,1931,0,BYD Atto 3,33.99 - 34.49  lakh,60.48 kWh,521 km/full charge,201.15 Bhp,9.5-10 Hours,440L L (Liters),Automatic,
+"",,,,Chhattisgarh,6424,5341.0,117,1077.0,1.0,0.0,0.0,368.0,100.0,13428,2,Hyundai Kona Electric,23.84 - 24.03  lakh,39.2kWh,452 km/full charge,134.1 Bhp,6.16 Hours,Automatic,,
+"",,,,Delhi,14730,112831.0,3051,49.0,39.0,0.0,0.0,0.0,1602.0,132302,0,Mahindra XUV400 EV,15.99 - 18.99  lakh,34.5 kWh,375 s km/full charge,50min,Automatic,,,
+"",,,,Goa,1314,28.0,289,13.0,36.0,2.0,0.0,0.0,4.0,1686,0,Tata Nexon EV Max,16.49 - 19.54  lakh,40.5 kWh,453  km/full charge,141.04 Bhp,15 Hours,350 L (Liters),Automatic,
+"",,,,Gujarat,13662,1869.0,1309,28.0,278.0,344.0,0.0,26.0,77.0,17593,0,Mercedes-Benz EQS,1.59 - 2.4 lakh,17.3 kWh,230  km/full charge,41.42 Bhp,7 Hours,Automatic,,
+"",,,,Haryana,7777,18595.0,186,122.0,8.0,2.0,0.0,0.0,90.0,26780,0,Audi e-tron GT,1.7 cr,19.2 KWh,250 km/full charge,60.34 - 73.75 Bhp,58 Min(10-80%),240 L (Liters),Automatic,
+"",,,,Himachal Pradesh,368,167.0,37,7.0,86.0,0.0,0.0,0.0,46.0,711,0,BMW i4,73.90 - 77.50  lakh,26 kWh,315 km/full charge,73.75 Bhp,7.5h,316 L (Liters),Automatic,
+"",,,,Jammu and Kashmir,1417,43.0,10,6.0,43.0,0.0,0.0,0.0,8.0,1527,0,BYD E6,29.15  lakh,50.3 kWh,461 km/full charge,174.33 Bhp,8.5 to 9 Hours,Automatic,,
+"",,,,Jharkhand,2961,8986.0,139,24.0,4.0,0.0,0.0,0.0,57.0,12171,0,Porsche Taycan,1.53 - 2.3 lakh,60.48 kWh,521 km/full charge,201.15 Bhp,9.5-10 Hours,440L L (Liters),Automatic,
+"",,,,Karnataka,56737,16478.0,7212,153.0,44.0,1.0,1.0,0.0,1420.0,82046,0,Audi RS e-tron GT,1.9 cr,39.2kWh,452 km/full charge,134.1 Bhp,6.16 Hours,Automatic,,
+"",,,,Kerala,10299,2115.0,2524,43.0,23.0,0.0,1.0,0.0,17.0,15022,0,Mahindra E Verito,9.13 - 9.46  lakh,34.5 kWh,375 s km/full charge,50min,Automatic,,,
+"",,,,Ladakh,12,0.0,5484,0.0,0.0,0.0,0.0,0.0,0.0,5496,0,Strom Motors R3,4.50  lakh,40.5 kWh,453  km/full charge,141.04 Bhp,15 Hours,350 L (Liters),Automatic,
+"",,,,Maharashtra,51149,6155.0,2,30.0,851.0,26.0,1.0,0.0,601.0,58815,0,Tata Nexon EV Prime,14.49 - 17.19  lakh,71.7 kWh,415 km/full charge,93.87 Bhp,1.5H,580 L (Liters),Automatic,
+"",,,,Manipur,86,443.0,9,1.0,0.0,0.0,0.0,0.0,1.0,540,0,Hyundai IONIQ 5,44.95  lakh,29.2 kWh,320 km/full charge,56.22 Bhp,10.5 Hours,315 L (Liters),Automatic,
+"",,,,Meghalaya,16,6.0,3,3.0,0.0,0.0,0.0,0.0,0.0,28,0,Kia EV6,60.95 - 65.95  lakh,77.4 kWh,708  km/full charge,225.86 - 320.55 Bhp,18 Min (0-80%),Automatic,,
+"",,,,Mizoram,9,1.0,4,2.0,1.0,0.0,0.0,0.0,3.0,20,0,BMW iX,1.2 cr,200kmph,372-425 km/full charge,321.84 Bhp,7.25h(AC 0-100%),Automatic,71kWh,200kmph
+"",,,,Nagaland,44,0.0,121,3.0,0.0,1.0,0.0,1.0,1.0,171,0,BMW i7,1.9 cr,,590-625 km/full charge,536.4 Bhp,Automatic,101.7kWh,,
+"",,,,Odisha,10329,1808.0,75,21.0,0.0,25.0,0.0,1.0,23.0,12282,0,Mini Cooper SE,52.50  lakh,32.6KwH,270 km/full charge,181.03 Bhp,2.5 Hours,Automatic,,
+"",,,,Puducherry,1429,32.0,124,9.0,20.0,0.0,0.0,0.0,0.0,1614,0,Audi e-tron,1.02 - 1.2 lakh,77.4 kWh,708  km/full charge,225.86 - 320.55 Bhp,18 Min (0-80%),Automatic,,
+"",,,,Punjab,6408,2878.0,798,35.0,2.0,0.0,0.0,0.0,21.0,10142,0,Citroen eC3,11.50 - 12.76  lakh,200kmph,372-425 km/full charge,321.84 Bhp,7.25h(AC 0-100%),Automatic,71kWh,200kmph
+"",,,,Rajasthan,23446,29631.0,12,25.0,1.0,0.0,1.0,1.0,24.0,53141,0,Volvo XC40 Recharge,56.90  lakh,,590-625 km/full charge,536.4 Bhp,Automatic,101.7kWh,,
+"",,,,Sikkim,1,0.0,2414,1.0,0.0,0.0,0.0,0.0,9.0,2425,0,Jaguar I-Pace,1.20 - 1.2 lakh,32.6KwH,270 km/full charge,181.03 Bhp,2.5 Hours,Automatic,,
+"",,,,Tamil Nadu,44302,4470.0,13,1281.0,37.0,0.0,0.0,0.0,193.0,50296,0,Pravaig DEFY,39.50  lakh,107.8kwh,857 km/full charge,516.29 - 750.97 Bhp,Automatic,210km/h,,210km/h
+"",,,,Tripura,67,7510.0,14,1.0,0.0,0.0,0.0,0.0,1.0,7593,0,PMV EaS E,4.79  lakh,93.4kWh,388-500 km/full charge,5:15 Hours,Automatic,245km/h,,245km/h
+"",,,,Dadra and Nagar Haveli and Daman and Diu,69,36.0,153,2.0,10.0,7.0,0.0,0.0,0.0,277,0,Mercedes-Benz EQB,74.50  lakh,,264-379 km/full charge,Automatic,200kmph,71kwh,,200kmph
+"",,,,Uttar Pradesh,18295,257159.0,368,53.0,327.0,2.0,0.0,0.0,13.0,276217,0,Mercedes-Benz EQC,99.50  lakh,83.9Kw,493-590 km/full charge,335.25 Bhp,Automatic,190kmph,,190kmph
+"",,,,Uttarakhand,2614,22096.0,709,1.0,10.0,0.0,0.0,0.0,21.0,25451,0,,,,,,,,,
+"",,,,West Bengal,2540,40948.0,615,28.0,97.0,0.0,2.0,0.0,61.0,44291,0,,,,,,,,,
+"",,,,Grand Total,282542,647186.0,26335,3036.0,2039.0,410.0,6.0,397.0,4412.0,966363,1,,,,,,,,,

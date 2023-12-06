@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Upload CSV Files</title>
+    <script>
+        function checkStatus() {
+            fetch('/api/csv/status')
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('status').textContent = data;
+                })
+                .catch(error => console.error('Error:', error));
+        }
+    </script>
+</head>
+<body>
+<h2>Upload CSV Files</h2>
+<form method="POST" action="/api/csv/process" enctype="multipart/form-data">
+    <p>Maximum file size: 80MB</p>
+    <input type="file" name="files" multiple><br><br>
+    <label for="tableName">Table Name:</label>
+    <input type="text" id="tableName" name="tableName"><br><br>
+    <button type="submit">Upload</button>
+</form>
+<button onclick="checkStatus()">Check Processing Status</button>
+<div id="status"></div>
+
+<h3>Existing Tables</h3>
+<ul>
+    <li th:each="table : ${tables}" th:text="${table}"></li>
+</ul>
+</body>
+</html>
